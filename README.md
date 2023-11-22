@@ -1,5 +1,3 @@
-## app flutter ada di directory shopping_list_mobile
-
 Nama : Fernanda Nadhiftya Putra
 
 NPM : 2206081686
