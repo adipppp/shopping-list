@@ -1,9 +1,11 @@
-Nama    : Fernanda Nadhiftya Putra
+## app flutter ada di directory shopping_list_mobile
 
-NPM     : 2206081686
+Nama : Fernanda Nadhiftya Putra
 
-Kelas   : PBP D
+NPM : 2206081686
 
-Hobi    : Bermain Game
+Kelas : PBP D
+
+Hobi : Bermain Game
 
 Jurusan : Ilmu Komputer
